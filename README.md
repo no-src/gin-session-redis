@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/no-src/gin-session-redis)](https://github.com/no-src/gin-session-redis/blob/main/LICENSE)
 [![Go Reference](https://pkg.go.dev/badge/github.com/no-src/gin-session-redis.svg)](https://pkg.go.dev/github.com/no-src/gin-session-redis)
 [![Go Report Card](https://goreportcard.com/badge/github.com/no-src/gin-session-redis)](https://goreportcard.com/report/github.com/no-src/gin-session-redis)
-[![codecov](https://codecov.io/gh/no-src/gin-session-redis/branch/main/graph/badge.svg?token=VnOF67iMER)](https://codecov.io/gh/no-src/gin-session-redis)
+[![codecov](https://codecov.io/gh/no-src/gin-session-redis/branch/main/graph/badge.svg?token=8KyEH2gGtv)](https://codecov.io/gh/no-src/gin-session-redis)
 [![Release](https://img.shields.io/github/v/release/no-src/gin-session-redis)](https://github.com/no-src/gin-session-redis/releases)
 
 Gin middleware for session management with redis store.
