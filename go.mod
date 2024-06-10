@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/gin-contrib/sessions v1.0.1
 	github.com/no-src/redistore v0.0.0-20230606141741-b5d82a351724
-	github.com/redis/go-redis/v9 v9.5.2
+	github.com/redis/go-redis/v9 v9.5.3
 )
 
 require (
